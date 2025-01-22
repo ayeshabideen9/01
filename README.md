@@ -1,2 +1,2 @@
-# demo
-First Class
+# Demo
+This is my First Class of GitHub
